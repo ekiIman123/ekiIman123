@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+^^;Welcome+to+My+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+^^;Welcome+to+My+Github)](https://git.io/typing-svg)
 
 ## 🌐 Hit Me On:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ekiiman_j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eki-iman-j/)
